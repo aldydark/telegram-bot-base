@@ -1,10 +1,7 @@
 # telegram-bot-base
 
-![preview](https://cloudkuimages.com/uploads/images/FMGCZLRX.jpg)
 
 Bot Telegram ini dibangun menggunakan Telegraf.js dengan arsitektur modular, memudahkan penambahan fitur dan pemeliharaan.
-
-Bot Preview: [@flowfalcon_project_bot](https://t.me/flowfalcon_project_bot)
 
 ## Struktur Project
 
