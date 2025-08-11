@@ -2,7 +2,7 @@ const { Telegraf, session } = require("telegraf");
 const fs = require("fs");
 const path = require("path");
 const config = require("./config");
-const logger = require("./utils/logger");
+const logger = require("./utils/logger.js");
 const bot = new Telegraf(config.botToken);
 
 bot.use(session());
