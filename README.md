@@ -86,8 +86,8 @@ Edit juga file `data/botinfo.js` untuk konfigurasi tampilan menu saat start nant
 
 ```json
 {
-  "botName": "FlowFalcon TeleBot Project's",
-  "ownerName": "@FlowFalcon",
+  "botName": "aldy TeleBot Project's",
+  "ownerName": "@aldyganteng",
   "thumbnail": null
     // ganti thumbnail bisa di atur di bot nanti menggunakan fitur /setthumb sambil reply media
 }
