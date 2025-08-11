@@ -59,7 +59,7 @@ telegram-bot-base/
 
 1.  **Clone repository ini:**
     ```bash
-    git clone https://github.com/FlowFalcon/telegram-bot-base
+    git clone https://github.com/aldydark/telegram-bot-base
     cd telegram-bot-base
     ```
 
